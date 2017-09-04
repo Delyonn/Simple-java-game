@@ -1,7 +1,7 @@
 # Simple-java-game
 simple game, where user controls a moped and tries to evade robots while collecting points
 
-liiku + p/e/i/l, liiku ilmansuuntaan
+liiku + p/e/i/l, liiku ilmansuuntaan /n
 kartta, tulosta kartta
 katso + p/e/i/l, katso ilmansuuntaan
 odota, odottaa yhden vuoron
